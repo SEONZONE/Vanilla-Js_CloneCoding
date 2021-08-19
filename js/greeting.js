@@ -1,5 +1,7 @@
+//08-19
+
 const loginForm = document.querySelector("#login-form");
-//login - form
+
 const loginInput = document.querySelector("#login-form input");
 const greeting = document.querySelector("#greeting");
 
